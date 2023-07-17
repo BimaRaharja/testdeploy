@@ -20,7 +20,7 @@
   "scripts": {
     "start": "node index.js",
     "test": "jest",
-    "build": "react-scripts --openssl-legacy-provider build",
+    "build": "react-scripts build",
     "development": "webpack --mode=development"
   },  
   
